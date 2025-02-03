@@ -1,0 +1,9 @@
+Package: darkplot
+Type: Package
+Title: Create Dark Plots
+Version: 0.1.0
+Author: Antreas Vasileiou
+Description: Dark version of scatter plot and histogram.
+Encoding: UTF-8
+LazyData: true
+
